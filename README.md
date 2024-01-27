@@ -1,2 +1,2 @@
 # MenuWithOptions
-My implementation of the "Manu With Options" challenge presented in Frank Mitropoulos' "Beginning C++ Programming" course on Udemy.
+My implementation of the "Menu With Options" challenge presented in Frank Mitropoulos' "Beginning C++ Programming" course on Udemy.
